@@ -61,7 +61,11 @@ Web App Manifest 是一个 W3C 规范，它定义了一个基于 JSON 的 List�
 
 使用推送消息通知，能够让我们的应用像 Native App 一样，提升用户体验。
 
-​ 
+​ Push 和 Notification 是两个不同的功能，涉及到两个 API 。
+
+​ Notification 是浏览器发出的通知消息。
+
+​ Push 和 Notification 的关系，Push：服务器端将更新的信息传递给 SW ，Notification： SW 将更新的信息推送给用户。
 
 ​ 
 

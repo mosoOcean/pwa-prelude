@@ -1,0 +1,15 @@
+{
+    "name": "PWA第一个demo",
+    "short_name": "PWADemo",//用户主屏幕上的应用名字
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3eaf7c",
+    "icons": [
+      {
+        "src": "/logo.jpeg",
+        "sizes": "120x120",
+        "type": "image/png"
+      }
+    ]
+  }
